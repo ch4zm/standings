@@ -1,0 +1,4 @@
+#!/bin/bash
+set -a
+
+export GOLLYX_BASE_DATA_DIR="$HOME/golly/data"
